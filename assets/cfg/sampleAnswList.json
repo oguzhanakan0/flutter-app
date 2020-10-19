@@ -1,0 +1,21 @@
+{
+	"username":"ogakan",
+	"answList":[
+		{
+			"questionID":"q1",
+			"userChoice":"B"
+		},
+		{
+			"questionID":"q1",
+			"userChoice":"C"
+		},
+		{
+			"questionID":"q1",
+			"userChoice":"D"
+		},
+		{
+			"questionID":"q1",
+			"userChoice":"E"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"netler" : {
+        "user":{
+          "T": "18",
+          "M": "18",
+          "S": "6",
+          "F": "4",
+          "T2": "18",
+          "M2": "17",
+          "F2": "16",
+          "S2": "15",
+          "-":"-"
+        },
+        "Genel":{
+          "T": "11.75",
+          "M": "16.25",
+          "S": "4.47",
+          "F": "6.11",
+          "T2": "9.88",
+          "M2": "6.56",
+          "F2": "7.75",
+          "S2": "4.46",
+          "-":"-"
+        }
+    },
+    "userBuckets" : {
+        "EA":{"Genel": "≥40"},
+        "SAY":{"Genel": "≥60"},
+        "SÖZ":{"Genel": "≥70"},
+        "TYT":{"Genel": "≥80"}
+    },
+    "schoolRankings" : {
+        "EA":[
+          ["1","İstanbul Atatürk Fen Lisesi","528.66"],
+          ["2","İstanbul Kabataş Lisesi","522.40"],
+          ["3","Ankara Fen Lisesi","518.43"],
+          ["124","Amasya Lisesi","488.53"]],
+        "SAY":[
+          ["1","İstanbul Kabataş Lisesi","522.40"],
+          ["2","Ankara Fen Lisesi","518.43"],
+          ["3","İstanbul Atatürk Fen Lisesi","528.66"],
+          ["246","Amasya Lisesi","488.53"]],
+        "SÖZ":[
+          ["1","Ankara Fen Lisesi","518.43"],
+          ["2","İstanbul Atatürk Fen Lisesi","528.66"],
+          ["3","İstanbul Kabataş Lisesi","522.40"],
+          ["95","Amasya Lisesi","488.53"]],
+        "TYT":[
+          ["1","İstanbul Kabataş Lisesi","522.40"],
+          ["2","Ankara Fen Lisesi","518.43"],
+          ["745","Amasya Lisesi","488.53"]]
+    },
+    "examRankings2" : {
+        "EA":[
+          ["1","metehantugrayaz","İstanbul Atatürk Fen Lisesi","528.66"],
+          ["2","oguzhanakan0","İstanbul Kabataş Lisesi","522.40"],
+          ["3","mamifast","Ankara Fen Lisesi","518.43"],
+          ["236425","ogakan","Amasya Lisesi","488.53"]],
+        "SAY":[
+          ["1","oguzhanakan0","İstanbul Kabataş Lisesi","522.40"],
+          ["2","mamifast","Ankara Fen Lisesi","518.43"],
+          ["3","metehantugrayaz","İstanbul Atatürk Fen Lisesi","528.66"],
+          ["n","ogakan","Amasya Lisesi","488.53"]],
+        "SÖZ":[
+          ["1","mamifast","Ankara Fen Lisesi","518.43"],
+          ["2","metehantugrayaz","İstanbul Atatürk Fen Lisesi","528.66"],
+          ["3","oguzhanakan0","İstanbul Kabataş Lisesi","522.40"],
+          ["n","ogakan","Amasya Lisesi","488.53"]],
+        "TYT":[
+          ["1","oguzhanakan0","İstanbul Kabataş Lisesi","522.40"],
+          ["2","mamifast","Ankara Fen Lisesi","518.43"],
+          ["3","altuntasabd","Amasya Lisesi","488.53"],
+          ["4","altuntasabd","Amasya Lisesi","488.53"],
+          ["5","altuntasabd","Amasya Lisesi","488.53"],
+          ["6","altuntasabd","Amasya Lisesi","488.53"],
+          ["n","ogakan","Amasya Lisesi","528.66"]]
+    }
+}

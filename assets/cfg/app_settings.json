@@ -1,0 +1,113 @@
+{
+  "fontFamily":"Gothic",
+  "text": {
+    "headline": {
+      "fontFamily":"Gothic",
+      "fontSize": 18.0,
+      "underline": true,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "subhead": {
+      "fontFamily":"Gothic",
+      "fontSize": 16.0,
+      "underline": true,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "title": {
+      "fontFamily":"Gothic",
+      "fontSize": 18.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "subtitle": {
+      "fontFamily":"Gothic",
+      "fontSize": 14.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "body1": {
+      "fontSize": 12.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "body2": {
+      "fontSize": 12.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "caption": {
+      "fontFamily":"Gothic",
+      "fontSize": 12.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "overline": {
+      "fontFamily":"Gothic",
+      "fontSize": 12.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "display1": {
+      "fontFamily":"Gothic",
+      "fontSize": 42.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "display2": {
+      "fontFamily":"Gothic",
+      "fontSize": 24.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "display3": {
+      "fontFamily":"Gothic",
+      "fontSize": 18.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    },
+    "display4": {
+      "fontFamily":"Gothic",
+      "fontSize": 14.0,
+      "underline": false,
+      "italic": true,
+      "bold": true,
+      "color": "optikBlack"
+    }
+  },
+  "colors": {
+    "optikBlack": "0xff141414",
+    "optikGray": "0xffe1dedc",
+    "optikLightGray": "0xfff9f9f9",
+    "optikGreen": "0xff5cb85c",
+    "optikBlue": "0xff428bca",
+    "optikDarkBlue": "0xff214565",
+    "optikLightBlue": "0xffc6dcef",
+    "optikWhite": "0xffffffff",
+    "optikTurkce":"0xffffb5b5",
+    "optikMatematik":"0xffffb5b5",
+    "optikSosyal":"0xffffb5b5",
+    "optikFen":"0xffffb5b5"
+  }
+}

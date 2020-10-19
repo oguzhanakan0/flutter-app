@@ -1,0 +1,102 @@
+[
+  {
+    "id": "42354634",
+    "examDate":"2020-02-09T21:00:00+03:00",
+    "parentTopic":"TYT",
+    "topic":"T",
+    "nQuestions":20,
+    "subjectMap":{
+      "T":["Türkçe Konusu 1","Türkçe Konusu 2","Türkçe Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354635",
+    "examDate":"2020-02-10T21:00:00+03:00",
+    "parentTopic":"TYT",
+    "topic":"M",
+    "nQuestions":20,
+    "subjectMap":{
+      "M":["Matematik Konusu 1","Matematik Konusu 2","Matematik Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354636",
+    "examDate":"2020-02-11T21:00:00+03:00",
+    "parentTopic":"TYT",
+    "topic":"S",
+    "nQuestions":10,
+    "subjectMap":{
+      "ST":["Tarih Konusu 1","Tarih Konusu 2","Tarih Konusu 3"],
+      "SC":["Coğrafya Konusu 1","Coğrafya Konusu 2","Coğrafya Konusu 3"],
+      "SF":["Felsefe Konusu 1","Felsefe Konusu 2","Felsefe Konusu 3"],
+      "SD":["Din Kültürü Konusu 1","Din Kültürü Konusu 2","Din Kültürü Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354637",
+    "examDate":"2020-02-11T21:15:00+03:00",
+    "parentTopic":"TYT",
+    "topic":"F",
+    "nQuestions":10,
+    "subjectMap":{
+      "FF":["Fizik Konusu 1","Fizik Konusu 2","Fizik Konusu 3"],
+      "FK":["Kimya Konusu 1","Kimya Konusu 2","Kimya Konusu 3"],
+      "FB":["Biyoloji Konusu 1","Biyoloji Konusu 2","Biyoloji Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354638",
+    "examDate":"2020-02-12T21:00:00+03:00",
+    "parentTopic":"AYT",
+    "topic":"T2",
+    "nQuestions":20,
+    "subjectMap":{
+      "T2E":["Edebiyat Konusu 1","Edebiyat Konusu 2","Edebiyat Konusu 3"],
+      "T2T":["Tarih Konusu 1","Tarih Konusu 2","Tarih Konusu 3"],
+      "T2C":["Coğrafya Konusu 1","Coğrafya Konusu 2","Coğrafya Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354639",
+    "examDate":"2020-02-13T21:00:00+03:00",
+    "parentTopic":"AYT",
+    "topic":"M2",
+    "nQuestions":20,
+    "subjectMap":{
+      "M2":["Matematik Konusu 1","Matematik Konusu 2","Matematik Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354639",
+    "examDate":"2020-02-14T21:00:00+03:00",
+    "parentTopic":"AYT",
+    "topic":"S2",
+    "nQuestions":20,
+    "subjectMap":{
+      "S2T":["Tarih Konusu 1","Tarih Konusu 2","Tarih Konusu 3"],
+      "S2C":["Coğrafya Konusu 1","Coğrafya Konusu 2","Coğrafya Konusu 3"],
+      "S2F":["Felsefe Konusu 1","Felsefe Konusu 2","Felsefe Konusu 3"],
+      "S2D":["Din Kültürü Konusu 1","Din Kültürü Konusu 2","Din Kültürü Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  },
+  {
+    "id": "42354641",
+    "examDate":"2020-02-15T21:15:00+03:00",
+    "parentTopic":"AYT",
+    "topic":"F2",
+    "nQuestions":10,
+    "subjectMap":{
+      "F2F":["Fizik Konusu 1","Fizik Konusu 2","Fizik Konusu 3"],
+      "F2K":["Kimya Konusu 1","Kimya Konusu 2","Kimya Konusu 3"],
+      "F2B":["Biyoloji Konusu 1","Biyoloji Konusu 2","Biyoloji Konusu 3"]
+    },
+    "parentExamName":"Galileo"
+  }
+]

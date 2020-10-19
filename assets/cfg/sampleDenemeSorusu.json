@@ -1,0 +1,16 @@
+{
+  "questionID": "q1",
+  "parentExamID":"pe1",
+  "header1":"header 1",
+  "header2":"header 2",
+  "body": "question? ",
+  "choices":{
+    "A":"Choice",
+    "B":"Choice",
+    "C":"Choice",
+    "D":"Choice",
+    "E":"Choice"},
+  "correctChoice":"A",
+  "userChoice": null,
+  "subject": "Sayılar ve Kümeler ve Trigonometri ve Üçgenler"
+}

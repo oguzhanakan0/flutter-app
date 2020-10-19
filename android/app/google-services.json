@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "49238681515",
+    "firebase_url": "https://dimtto.firebaseio.com",
+    "project_id": "dimtto",
+    "storage_bucket": "dimtto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49238681515:android:995c63ba045fbe670794ee",
+        "android_client_info": {
+          "package_name": "com.dimtto.Optik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49238681515-2q8s0rt18uj89kglluomjj0cftq8q4lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimtto.Optik",
+            "certificate_hash": "0083b4f95c7b898ec3708fb793fbde479f4f48b7"
+          }
+        },
+        {
+          "client_id": "49238681515-641btbo5hnem3cc7jflad6rp40g9p8t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOLr_8v4hj19PhQAPrlOXqYRaD_wLUak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49238681515-mdqpqt6rnpttgsrr9opfsqhlt4vr72je.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49238681515-lk5oeequhgdm2ipdb76muns2rcjh6vq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mr.dimtto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49238681515:android:e9f63868f71ebd400794ee",
+        "android_client_info": {
+          "package_name": "com.mr.dimtto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49238681515-savlh8rrn6v7bnt0s3gailubdo5iafm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mr.dimtto",
+            "certificate_hash": "0083b4f95c7b898ec3708fb793fbde479f4f48b7"
+          }
+        },
+        {
+          "client_id": "49238681515-alrv9vm3gk0mjoi3mq8ta47vgmhso7ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mr.dimtto",
+            "certificate_hash": "9b2fca5780a29d66b479aa7bc365cd56f8c9bad5"
+          }
+        },
+        {
+          "client_id": "49238681515-641btbo5hnem3cc7jflad6rp40g9p8t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOLr_8v4hj19PhQAPrlOXqYRaD_wLUak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49238681515-mdqpqt6rnpttgsrr9opfsqhlt4vr72je.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49238681515-lk5oeequhgdm2ipdb76muns2rcjh6vq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mr.dimtto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

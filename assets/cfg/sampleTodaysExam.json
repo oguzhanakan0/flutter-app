@@ -1,0 +1,18 @@
+{
+  "id": "42354634",
+  "questionIDs":["53435","24634","246456","346343"],
+  "parentExamID":"5764534",
+  "examDate":"2020-02-25T00:01:00+03:00",
+  "parentTopic":"AYT",
+  "topic":"M2",
+  "nQuestions":4,
+  "subjectMap":{
+    "ST":["Tarih Konusu 1","Tarih Konusu 2","Tarih Konusu 3"],
+    "SC":["Coğrafya Konusu 1","Coğrafya Konusu 2","Coğrafya Konusu 3"],
+    "SF":["Felsefe Konusu 1","Felsefe Konusu 2","Felsefe Konusu 3"],
+    "SD":["Din Kültürü Konusu 1","Din Kültürü Konusu 2","Din Kültürü Konusu 3"]
+  },
+  "isMakeup":false,
+  "parentExamName":"Pascal",
+  "reviewDuration":10
+}

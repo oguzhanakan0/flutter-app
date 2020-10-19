@@ -1,0 +1,50 @@
+[
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"TYT",
+    "topic":"T"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"TYT",
+    "topic":"M"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"TYT",
+    "topic":"S"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"TYT",
+    "topic":"F"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"AYT",
+    "topic":"T2"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"AYT",
+    "topic":"M2"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"AYT",
+    "topic":"S2"
+  },
+  {
+    "id": "42354634",
+    "examDate":"2020-02-05 00:00:00",
+    "parentTopic":"AYT",
+    "topic":"F2"
+  }
+]

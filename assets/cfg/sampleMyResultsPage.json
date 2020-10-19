@@ -1,0 +1,32 @@
+[
+  { "siralama":154,
+    "dilim":0.036,
+    "puan":543.54,
+    "parentExam":{
+      "id": "1",
+      "parentExamName": "Galileo",
+      "examStartDate": "2020-02-05 00:00:00",
+      "examEndDate": "2020-02-05 00:00:00"
+    }
+  },
+  { "siralama":164,
+    "dilim":0.048,
+    "puan":563.54,
+    "parentExam":{
+      "id": "1",
+      "parentExamName": "Mustafa Kemal",
+      "examStartDate": "2020-02-05 00:00:00",
+      "examEndDate": "2020-02-05 00:00:00"
+    }
+  },
+  { "siralama":124,
+    "dilim":0.036,
+    "puan":513.54,
+    "parentExam":{
+      "id": "1",
+      "parentExamName": "Proust",
+      "examStartDate": "2020-02-05 00:00:00",
+      "examEndDate": "2020-02-05 00:00:00"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "questionID": "q1",
+  "examID":"e1",
+  "parentExamID":"pe1",
+  "header1":"header 1",
+  "header2":"header 2",
+  "body": "question? ",
+  "choices":{
+    "A":"Choice",
+    "B":"Choice",
+    "C":"Choice",
+    "D":"Choice",
+    "E":"Choice"},
+  "correctChoice":"A",
+  "userChoice": "C",
+  "isTappable": false,
+  "order":1,
+  "subject": "Sayılar ve Kümeler ve Trigonometri ve Üçgenler",
+  "parentSubject": "TYT",
+  "deadline":"2020-02-08 14:00:00",
+  "answerTime":"2020-02-08 14:00:00"
+}

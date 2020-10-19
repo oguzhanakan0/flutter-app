@@ -1,0 +1,10 @@
+[
+{"topic":"T","parentTopic":"TYT","nQuestions":856},
+{"topic":"M","parentTopic":"TYT","nQuestions":43},
+{"topic":"S","parentTopic":"TYT","nQuestions":0},
+{"topic":"F","parentTopic":"TYT","nQuestions":6345},
+{"topic":"T2","parentTopic":"AYT","nQuestions":305},
+{"topic":"M2","parentTopic":"AYT","nQuestions":405},
+{"topic":"S2","parentTopic":"AYT","nQuestions":5},
+{"topic":"F2","parentTopic":"AYT","nQuestions":425}
+]
